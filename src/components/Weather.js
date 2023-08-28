@@ -43,6 +43,7 @@ function Weather() {
       <br />
       <form>
         <input
+        className="inputbg"
           type="text"
           placeholder="city"
           name="city"

@@ -1,6 +1,6 @@
 .weather {
   margin: 2rem 0;
-  border: 3px dashed grey;
+  /* border: 3px dashed grey; */
   border-radius: 20px;
   padding-bottom: 30px;
   width: max-content;
@@ -33,7 +33,7 @@
   border: none;
   border-radius: 20px;
   border: 2px solid black;
-  background: rgb(2, 57, 88, 0.8);
+  background: rgb(72, 138, 66);
   cursor: pointer;
   color: whitesmoke;
 }
@@ -45,4 +45,7 @@
 
 .weather .getweather:focus {
   outline: none;
+}
+.inputbg{
+  background-color: rgb(72, 138, 66);;
 }

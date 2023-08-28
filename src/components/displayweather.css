@@ -13,7 +13,7 @@
   border-radius: 20px;
   position: relative;
   background: rgb(72, 138, 66);
-  border: 1px solid rgb(164, 99, 99);
+  border: 1px solid rgb(164, 99, 99); 
 }
 
 .displayweather .maincard .cardtitle {
@@ -25,7 +25,7 @@
 
 .displayweather .maincard .cardsubtitle {
   position: absolute;
-  left: 40px;
+  left: 10px;
 
   color: rgb(228, 242, 248);
   margin-top: -8px;
