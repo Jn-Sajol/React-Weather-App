@@ -11,8 +11,8 @@
   padding: 50px;
   border-radius: 20px;
   position: relative;
-  background: rgb(245, 242, 242);
-  border: 1px solid black;
+  background: rgb(72, 138, 66);
+  border: 1px solid rgb(164, 99, 99);
 }
 
 .displayweather .maincard .cardtitle {
